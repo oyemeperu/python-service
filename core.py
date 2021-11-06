@@ -1,4 +1,4 @@
 
 
 def meta_execution():
-    pass
+    print("meta_execution")
